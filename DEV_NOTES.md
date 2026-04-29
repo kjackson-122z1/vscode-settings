@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Pinned dependency versions for reproducibility
 - Added healthcheck endpoint stub
+
+## 2026-04-29
+- Cleaned up old debug logs
+- Reviewed security headers configuration
+- Wrote notes on upcoming feature design
