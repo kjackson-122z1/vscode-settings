@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Tested build on clean environment
+
+## 2026-04-29
+- Bumped patch version
+- Tidied up project structure
+- Reviewed security headers configuration
